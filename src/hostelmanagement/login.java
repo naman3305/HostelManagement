@@ -4,7 +4,8 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.sql.*;
 
-public class login extends JFrame implements ActionListener{
+public class login extends JFrame implements ActionListener
+{
 JLabel l1,l2,l3;
 JButton b1,b2;
 JTextField t1;
