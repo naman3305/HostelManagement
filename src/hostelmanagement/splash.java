@@ -2,8 +2,10 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class splash {
-    public static void main(String[] args){
+public class splash
+{
+    public static void main(String[] args)
+    {
         fframe f1 = new fframe();
         f1.setVisible(true);
         f1.setLocation(600,300);
