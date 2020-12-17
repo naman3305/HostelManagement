@@ -4,7 +4,8 @@ import java.awt.event.*;
 import java.sql.*;
 
 
-public class Update_Delete_Student extends JFrame implements ActionListener {
+public class Update_Delete_Student extends JFrame implements ActionListener 
+{
 	JPanel f;
 	JTextField tf1,tf2,tf3,tf4,tf5,tf6,tf7,tf8;
 	JLabel mobile,name,fname,mname,mail,address,aadhar,roomnumber,status; 
