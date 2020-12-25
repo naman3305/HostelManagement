@@ -4,7 +4,8 @@ import java.awt.event.*;
 import java.sql.*;
 import javax.swing.table.DefaultTableModel;
 
-public class Room extends JFrame implements ActionListener{
+public class Room extends JFrame implements ActionListener
+{
     
     JPanel p1;
     JTable table;
