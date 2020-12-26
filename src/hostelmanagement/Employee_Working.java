@@ -13,7 +13,8 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.border.EmptyBorder;
 
-public class Employee_Working extends JFrame implements ActionListener{
+public class Employee_Working extends JFrame implements ActionListener
+{
 	JLabel heading;
 	JPanel contentPane;
 	 JTable table;
