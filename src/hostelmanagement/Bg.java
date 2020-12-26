@@ -3,7 +3,8 @@
 import java.awt.event.*;
 import javax.swing.*;
 import java.sql.*;
-public class Bg extends JFrame{
+public class Bg extends JFrame
+{
     Bg()
     {
         setUndecorated(true);
