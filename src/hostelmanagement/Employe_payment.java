@@ -11,7 +11,8 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.*;
 
-public class Employe_payment extends JFrame implements ActionListener {
+public class Employe_payment extends JFrame implements ActionListener 
+{
 
 	JPanel contentPane;
 	JTextField tf1,tf2,tf3,tf4,tf5,tf6;
